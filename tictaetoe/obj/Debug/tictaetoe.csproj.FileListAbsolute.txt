@@ -1,0 +1,7 @@
+E:\VS17Projects\tictaetoe\tictaetoe\bin\Debug\tictaetoe.exe.config
+E:\VS17Projects\tictaetoe\tictaetoe\bin\Debug\tictaetoe.exe
+E:\VS17Projects\tictaetoe\tictaetoe\bin\Debug\tictaetoe.pdb
+E:\VS17Projects\tictaetoe\tictaetoe\obj\Debug\tictaetoe.csprojAssemblyReference.cache
+E:\VS17Projects\tictaetoe\tictaetoe\obj\Debug\tictaetoe.csproj.CoreCompileInputs.cache
+E:\VS17Projects\tictaetoe\tictaetoe\obj\Debug\tictaetoe.exe
+E:\VS17Projects\tictaetoe\tictaetoe\obj\Debug\tictaetoe.pdb
